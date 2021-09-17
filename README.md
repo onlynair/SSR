@@ -31,17 +31,11 @@ yum -y install wget
 ##### 安装ssr配置脚本
 
 ```terminal
-wget -N --no-check-certificate https://softs.fun/Bash/ssr.sh
+wget -N --no-check-certificate https://gitee.com/syh1221/Demo/raw/main/ssr.sh
 chmod +x ssr.sh
 bash ssr.sh
 ```
-##### 备用地址
 
-```terminal
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh
-chmod +x ssr.sh
-bash ssr.sh
-```
 上方命令执行完毕之后效果应该是这样的：
 
 ![image.png](http://upload-images.jianshu.io/upload_images/6245842-c61be6d239fd67b8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -117,5 +111,3 @@ bash ssr.sh
 
 输入7即可根据需要自己修改配置了。怎么样，很简单吧。
 不过服务器这东西一般人还是很难拥有的。感谢阅读。
-
-SSR客户端百度网盘下载链接：[https://pan.baidu.com/s/1n4-bhlDaQH23RAY5u1HL2w](https://pan.baidu.com/s/1n4-bhlDaQH23RAY5u1HL2w)  密码:k8j4
